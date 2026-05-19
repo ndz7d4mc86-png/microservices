@@ -1,0 +1,21 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to prod Loans API"
+
+  contact-person:
+    first-name: "loans"
+    last-name: "prod"
+    email: "prod.loan@loans.com"
+
+  address-info:
+    address-line1: "123 prod loan street"
+    address-line2: "Suite 1500"
+    city: "prodLoans"
+    state: "prodLoans"
+    country: "prodLoans"
+
+  on-call-support:
+    - (701) 456-7890
+    - (701) 456-7900

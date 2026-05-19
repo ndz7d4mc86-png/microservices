@@ -1,0 +1,21 @@
+build:
+  version: "2.50"
+
+accounts:
+  message: "Welcome to qa accounts API"
+
+  contact-person:
+    first-name: "mnlop"
+    last-name: "qa"
+    email: "qa@accounts.com"
+
+  address-info:
+    address-line1: "123 streetName"
+    address-line2: "Suite 1500"
+    city: "qaCity"
+    state: "qaState"
+    country: "qaCountry"
+
+  on-call-support:
+    - (601) 456-7890
+    - (601) 456-7900

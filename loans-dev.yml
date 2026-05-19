@@ -1,0 +1,21 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to dev loans API"
+
+  contact-person:
+    first-name: "loans"
+    last-name: "dev"
+    email: "dev.loan@loans.com"
+
+  address-info:
+    address-line1: "123 dev loan street"
+    address-line2: "Suite 1500"
+    city: "devLoans"
+    state: "devLoans"
+    country: "devLoans"
+
+  on-call-support:
+    - "(401) 456-7890"
+    - "(401) 456-7900"

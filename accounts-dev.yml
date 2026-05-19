@@ -1,0 +1,21 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to dev accounts API"
+
+  contact-person:
+    first-name: "xyz"
+    last-name: "dev"
+    email: "dev@accounts.com"
+
+  address-info:
+    address-line1: "123 streetName"
+    address-line2: "Suite 1500"
+    city: "devCity"
+    state: "devState"
+    country: "devCountry"
+
+  on-call-support:
+    - "(401) 456-7890"
+    - "(401) 456-7900"

@@ -1,0 +1,21 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Prod cards API"
+
+  contact-person:
+    first-name: "cards"
+    last-name: "prod"
+    email: "prod.card@cards.com"
+
+  address-info:
+    address-line1: "123 prodCards"
+    address-line2: "cards 1500"
+    city: "prodCard"
+    state: "prodCard"
+    country: "prodCard"
+
+  on-call-support:
+      - "(227) 227-2273"
+      - "(227) 227-2273"

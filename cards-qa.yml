@@ -1,0 +1,21 @@
+build:
+  version: "2.50"
+
+cards:
+  message: "Welcome to qa cards API"
+
+  contact-person:
+    first-name: "cards"
+    last-name: "qa"
+    email: "qa.card@cards.com"
+
+  address-info:
+    address-line1: "123 qaCards"
+    address-line2: "cards 1500"
+    city: "qaCard"
+    state: "qaCard"
+    country: "qaCard"
+
+  on-call-support:
+    - "(227) 456-7890"
+    - "(227) 456-7900"

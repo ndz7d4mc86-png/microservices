@@ -1,0 +1,21 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to prod accounts API"
+
+  contact-person:
+    first-name: "abcdef"
+    last-name: "prod"
+    email: "prod@accounts.com"
+
+  address-info:
+    address-line1: "123 streetName"
+    address-line2: "Suite 1500"
+    city: "prodCity"
+    state: "prodState"
+    country: "prodCountry"
+
+  on-call-support:
+    - (701) 456-7890
+    - (701) 456-7900

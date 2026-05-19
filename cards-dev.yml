@@ -1,0 +1,21 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to dev cards API"
+
+  contact-person:
+    first-name: "cards"
+    last-name: "dev"
+    email: "dev.card@cards.com"
+
+  address-info:
+    address-line1: "123 devCards"
+    address-line2: "cards 1500"
+    city: "devCard"
+    state: "devCard"
+    country: "devCard"
+
+  on-call-support:
+    - "(227) 456-7890"
+    - "(227) 456-7900"

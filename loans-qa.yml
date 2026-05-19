@@ -1,0 +1,21 @@
+build:
+  version: "2.50"
+
+loans:
+  message: "Welcome to qa loans API"
+  
+  contact-person:
+    first-name: "loans"
+    last-name: "qa"
+    email: "qa.loan@loans.com"
+  
+  address-info:
+    address-line1: "123 qa loan street"
+    address-line2: "Suite 1500"
+    city: "qaLoans"
+    state: "qaLoans"
+    country: "qaLoans"
+
+  on-call-support:
+    - "(601) 456-7890"
+    - "(601) 456-7900"
