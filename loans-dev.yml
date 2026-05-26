@@ -2,19 +2,19 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to dev loans API"
+  message: "Welcome to loans API in Development environment"
 
   contact-person:
-    first-name: "loans"
+    first-name: "loan"
     last-name: "dev"
     email: "dev.loan@loans.com"
 
   address-info:
-    address-line1: "123 dev loan street"
-    address-line2: "Suite 1500"
-    city: "devLoans"
-    state: "devLoans"
-    country: "devLoans"
+    address-line1: "123 Dev Loan Street"
+    address-line2: "Loan 1500"
+    city: "loanCity"
+    state: "loanState"
+    country: "loanUS"
 
   on-call-support:
     - "(401) 456-7890"
