@@ -2,19 +2,19 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to dev cards API"
+  message: "Welcome to cards API in Development environment"
 
   contact-person:
-    first-name: "cards"
+    first-name: "card"
     last-name: "dev"
-    email: "dev.card@cards.com"
+    email: "{cipher}2a6be36c1970514ccbce6d51c94869675aa82d93d65792400a8b0378347dd0cdd7c0b24b5d065d8b270ba7e536aea7e1"
 
   address-info:
-    address-line1: "123 devCards"
-    address-line2: "cards 1500"
-    city: "devCard"
-    state: "devCard"
-    country: "devCard"
+    address-line1: "123 Dev Cards Street"
+    address-line2: "Card 1500"
+    city: "cardCity"
+    state: "cardState"
+    country: "cardUS"
 
   on-call-support:
     - "(227) 456-7890"
