@@ -5,12 +5,12 @@ accounts:
   message: "Welcome to prod accounts API"
 
   contact-person:
-    first-name: "abcdef"
+    first-name: "acconut"
     last-name: "prod"
-    email: "prod@accounts.com"
+    email: "prod.account@accounts.com"
 
   address-info:
-    address-line1: "123 streetName"
+    address-line1: "123 streetProd"
     address-line2: "Suite 1500"
     city: "prodCity"
     state: "prodState"
