@@ -2,19 +2,19 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to dev accounts API"
+  message: "Welcome to accounts API in Development environment"
 
   contact-person:
-    first-name: "xyz"
+    first-name: "acc"
     last-name: "dev"
-    email: "dev@accounts.com"
+    email: "dev.acc@accounts.com"
 
   address-info:
-    address-line1: "123 streetName"
-    address-line2: "Suite 1500"
-    city: "devCity"
-    state: "devState"
-    country: "devCountry"
+    address-line1: "123 Dev Acc Street"
+    address-line2: "Acc 1500"
+    city: "accCity"
+    state: "accState"
+    country: "accUS"
 
   on-call-support:
     - "(401) 456-7890"
